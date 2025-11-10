@@ -11,8 +11,7 @@ url = 'https://webvpn.uestc.edu.cn/https/77726476706e69737468656265737421fcf6438
 # ★★★★★
 # ★★★★★  每次运行前，请务必更新为一个全新的、有效的 Cookie ★★★★★
 # ★★★★★
-cookie_string = 'UM_distinctid=19836422886143d-02a6955f85525e8-4c657b58-144000-198364228871848; zg_did=%7B%22did%22%3A%20%2219899354b4959c-0160a58cb4d60e-4c657b58-144000-19899354b4a100e%22%7D; zg_=%7B%22sid%22%3A%201755915554611%2C%22updated%22%3A%201755915554615%2C%22info%22%3A%201755915554614%2C%22superProperty%22%3A%20%22%7B%7D%22%2C%22platform%22%3A%20%22%7B%7D%22%2C%22utm%22%3A%20%22%7B%7D%22%2C%22referrerDomain%22%3A%20%22eportal.uestc.edu.cn%22%2C%22cuid%22%3A%20%222025090905026%22%2C%22zs%22%3A%200%2C%22sc%22%3A%200%2C%22firstScreen%22%3A%201755915554611%7D; wsess=ST-476695-w1tOKXPGX-9ArCKZdIEPvlC6i5cciapserver4'
-
+cookie_string = 'UM_distinctid=19836422886143d-02a6955f85525e8-4c657b58-144000-198364228871848; zg_did=%7B%22did%22%3A%20%2219899354b4959c-0160a58cb4d60e-4c657b58-144000-19899354b4a100e%22%7D; zg_=%7B%22sid%22%3A%201755915554611%2C%22updated%22%3A%201755915554615%2C%22info%22%3A%201755915554614%2C%22superProperty%22%3A%20%22%7B%7D%22%2C%22platform%22%3A%20%22%7B%7D%22%2C%22utm%22%3A%20%22%7B%7D%22%2C%22referrerDomain%22%3A%20%22eportal.uestc.edu.cn%22%2C%22cuid%22%3A%20%222025090905026%22%2C%22zs%22%3A%200%2C%22sc%22%3A%200%2C%22firstScreen%22%3A%201755915554611%7D; show_vpn=0; show_fast=0; heartbeat=1; show_faq=0; wengine_vpn_ticketwebvpn_uestc_edu_cn=wrdvpn1-b9521ca22aca408ab963b22e825a0c7a; refresh=0'
 # 请求头
 # 我们依然提供一些必要的头信息，但 User-Agent 等指纹相关的头 curl_cffi 会自动处理
 headers = {
